@@ -1,8 +1,8 @@
-## Olá, eu sou o Kaleb Henrique
+## 👋 Olá, eu sou o Kaleb Henrique
 
 - Técnico em Informática
 - Graduando em Engenharia de Computação na UnB
-- Aprendendo Java, JavaScript
+- Aprendendo Java e JavaScript
 - Amo tecnologias e tudo que elas podem proporcionar de melhora na qualidade de vida das pessoas e nos negócios.
 
 <div align="center">
