@@ -3,7 +3,7 @@
 - Técnico em Informática
 - Graduando em Engenharia de Computação na UnB
 - Aprendendo Java e JavaScript
-- Amo tecnologias e tudo que elas podem proporcionar de melhora na qualidade de vida das pessoas e nos negócios.
+- Amo tecnologia e tudo que ela pode proporcionar de melhora na qualidade de vida das pessoas e nos negócios.
 
 <div align="center">
   
