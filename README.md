@@ -2,7 +2,7 @@
 
 - Técnico em Informática
 - Graduando em Engenharia de Computação na UnB
-- Aprendendo Java e JavaScript
+- Aprendendo Python e JavaScript
 - Amo tecnologia e tudo que ela pode melhorar na qualidade de vida das pessoas e nos negócios.
 
 <div align="center">
