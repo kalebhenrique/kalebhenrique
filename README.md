@@ -1,6 +1,5 @@
 ## 👋 Olá, eu sou o Kaleb Henrique
 
-- Técnico em Informática
 - Graduando em Engenharia de Computação na UnB
 - Aprendendo Python
 
