@@ -1,4 +1,4 @@
 ## 👋 Olá, eu sou o Kaleb Henrique
 
 - Graduando em Engenharia de Computação na UnB
-- Aprendendo Python e Ruby
+- Aprendendo NextJS, React, Javascript, C++
