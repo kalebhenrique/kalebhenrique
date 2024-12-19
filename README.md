@@ -23,7 +23,7 @@ const kaleb = {
     technical: {
         technologies: {
             frontEnd: {
-                Frameworks: ['Next.js', 'React, Ruby On Rails'],
+                Frameworks: ['Next.js', 'React', 'Ruby On Rails'],
                 HTML: ['HTML5', 'Semantic HTML'],
                 CSS: ['Tailwind CSS', 'styled-components'],
             },
