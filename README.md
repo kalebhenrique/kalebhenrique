@@ -28,7 +28,7 @@ const kaleb = {
                 CSS: ['Tailwind CSS', 'styled-components'],
             },
             backEnd: {
-                Languages: ['TypeScript', 'Ruby, C/C++'],
+                Languages: ['TypeScript', 'Ruby', 'C/C++'],
             },
             architecture: ['Single Page Applications', 'Mobile First', 'Feature First'],
         },
