@@ -26,8 +26,8 @@ const kaleb = {
             HTML: ['Semantic HTML'],
             CSS: ['Tailwind CSS', 'styled-components'],
             Languages: ['TypeScript', 'Ruby', 'C/C++'],
-            architecture: ['Single Page Applications', 'Mobile First', 'Feature First'],
         },
+        architecture: ['Single Page Applications', 'Mobile First', 'Feature First'],
     }
 }
 ```
