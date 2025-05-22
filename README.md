@@ -16,9 +16,7 @@ const kaleb = {
         pronouns: 'he' || 'him',
         study: "Computer Engineering at UnB",
         interests: ['music', 'games', 'pop culture'],
-        motivation: [
-            'crafting experiences that are engaging, accessible, and user-centric',
-        ],
+        motivation: "Crafting experiences that are engaging, accessible, and user-centric",
     },
     technical: {
         technologies: {
