@@ -13,7 +13,7 @@ I'm a Web Developer.
 ``` js
 const kaleb = {
     personal: {
-        pronouns: 'he' | 'him',
+        pronouns: 'he' || 'him',
         study: "Computer Engineering at UnB",
         interests: ['music', 'games', 'pop culture'],
         motivation: [
