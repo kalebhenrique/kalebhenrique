@@ -22,14 +22,10 @@ const kaleb = {
     },
     technical: {
         technologies: {
-            frontEnd: {
-                Frameworks: ['Next.js', 'React', 'Ruby On Rails'],
-                HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['Tailwind CSS', 'styled-components'],
-            },
-            backEnd: {
-                Languages: ['TypeScript', 'Ruby', 'C/C++'],
-            },
+            Frameworks: ['Next.js', 'React', 'Inertia.js' 'Ruby On Rails'],
+            HTML: ['Semantic HTML'],
+            CSS: ['Tailwind CSS', 'styled-components'],
+            Languages: ['TypeScript', 'Ruby', 'C/C++'],
             architecture: ['Single Page Applications', 'Mobile First', 'Feature First'],
         },
     }
