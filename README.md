@@ -20,10 +20,9 @@ const kaleb = {
     },
     technical: {
         technologies: {
-            Frameworks: ['Next.js', 'React', 'Inertia.js' 'Ruby On Rails'],
-            HTML: ['Semantic HTML'],
-            CSS: ['Tailwind CSS', 'styled-components'],
-            Languages: ['TypeScript', 'Ruby', 'C/C++'],
+            Frameworks: ['React', 'React Native', 'Inertia.js', 'Ruby On Rails', 'Tauri'],
+            Container: ['Docker', 'Kubernetes'],
+            Languages: ['TypeScript', 'Ruby', 'Rust'],
         },
         architecture: ['Single Page Applications', 'Mobile First', 'Feature First'],
     }
